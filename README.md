@@ -1,23 +1,57 @@
 # resenhasdagii
 <html>
   <head>
-    <title>primeiro site do 1c</title>
+    <title>Seja bem vindo <3</title>
   </head>
   <style>
     body{
-      background-color:#A020F0;
+      background-color:#00FFFF;
     }
   </style>
   <body>
     <fieldset>
       <legend>CADASTRAR</legend>
-      <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
-      <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+     
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+   
+      <p>🐾</p>
+      <p>🐾</p>
+      <p>🐾</p>
+     
       <select>
-        <option>VOLEI</option>
-        <option>FUTEBOL</option>
-        <option>BASQUETE</option>
+        <option>Gatos</option>
+        <option>Cachorros</option>
+        <option>Coelhos</option>
       </select>
+     
     </fieldset>
+    <fieldset>
+      <legend></legend>
+     
+     </fieldset>
+    <fieldset>
+      <legend></legend>
+   
+     </fieldset>
+    <fieldset>
+      <legend></legend>
+   
+     </fieldset>
+    <fieldset>
+      <legend></legend>
+   
+     </fieldset>
+    <fieldset>
+      <legend></legend>
+     
   </body>
 </html>
