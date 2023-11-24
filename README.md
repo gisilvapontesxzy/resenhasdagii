@@ -5,7 +5,7 @@
   <style>
     body{ 
 background-color:write; 
-color:#FFFF00; 
+color:#FFF00; 
 front-family:arial;
 }
   </style>
@@ -18,9 +18,9 @@ front-family:arial;
                    placeholder="senha"><br><br>
     <p>LEITORES</p>
   <select>
-    <opition>LIVROS</opition>
-    <opition>FANFICS</opition>
-    <opition>AUTORES</opition>
+     <p<opition>LIVROS</opition></select></p>
+    <p<opition>FANFICS</opition></select></p>
+   <p<opition>AUTORES</opition></select></p>
   </select>
     
   </fieldset>
