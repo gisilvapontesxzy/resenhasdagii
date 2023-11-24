@@ -5,7 +5,7 @@
   <style>
     body{ 
 background-color:write; 
-color:#FF1493; 
+color☕; 
 front-family:arial;
 }
   </style>
@@ -13,7 +13,7 @@ front-family:arial;
   <fieldset>
 <legend>CADASTRAR</legend>
     <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
-    <p>SENHA:</p>input type="password" placeholder="senha"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
   <select>
     <opition>LIVROS</opition>
     <opition>FANFICS</opition>
