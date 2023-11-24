@@ -16,7 +16,7 @@ front-family:arial;
     <p>SENHA:</p>input type="password" placeholder="senha"><br><br>
   <select>
     <opition>LIVROS</opition>
-    <opition>FANFOCS</opition>
+    <opition>FANFICS</opition>
     <opition>AUTORES</opition>
   </select>
   </fieldset>
