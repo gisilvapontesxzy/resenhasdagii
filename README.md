@@ -5,7 +5,7 @@
   <style>
     body{ 
 background-color:write; 
-color☕; 
+color:#FFFF00; 
 front-family:arial;
 }
   </style>
@@ -20,6 +20,8 @@ front-family:arial;
     <opition>AUTORES</opition>
   </select>
   </fieldset>
+</body>
+</html>
   <a href="https://www.facebook.com/">facebook</a>
     <a href="https://www.instagram.com/">instgaram</a>
     <a href="https://www.youtube.com/">youtube</a>
